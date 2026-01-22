@@ -1,0 +1,4 @@
+##### 
+Dimensional of the string is known as the string:
+### Example of the initializing the string:
+# char name[10][20]
