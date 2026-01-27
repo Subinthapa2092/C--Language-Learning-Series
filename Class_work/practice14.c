@@ -8,3 +8,5 @@ int main(){
     printf("%d\n",b+1); // Second Variable Address
     return 0;
 }
+// The Operator & is Called the Address of Operator:: The Expression &var return the 
+// Returns the address of the variable Var. The Opertor * called value at address operator::
