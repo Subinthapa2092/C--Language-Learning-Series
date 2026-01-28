@@ -22,6 +22,7 @@ int main(){
     for(i=0;i<n;i++){
         scanf("%f",&a[i]);
     }
+    // relloc is used for the adding new size of the array in the python 's 
     for(i = 0;i<n;i++){
         sum = sum +a[i];
     avg = sum/n;
