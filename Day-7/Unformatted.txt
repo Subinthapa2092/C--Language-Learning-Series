@@ -1,0 +1,6 @@
+Today we will learn about the Unformatted Data Files::: 
+Data Files to store blocks of the data , where the each block conists of a fixed nuber
+of the continuous bytes. Each block will generally represent a complex data stucture,
+such as structure or an array. The libary function used 
+1) fread 
+2) fwrite 
