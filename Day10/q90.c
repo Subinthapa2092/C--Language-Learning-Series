@@ -21,7 +21,6 @@ int main() {
         return 1;
     }
 
-    // Copy and display
     while ((ch = fgetc(in)) != EOF) {
         fputc(ch, out); 
         printf("%c", ch);
